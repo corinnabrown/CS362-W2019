@@ -31,7 +31,7 @@ int main2(int argc, char *argv[]) {
 }
 
 int main(int argc, char* argv[]) {
-		char *add  = "add";
+	char *add  = "add";
 	char *buyC = "buy";
 	char *endT = "end";
 	char *exit = "exit";
@@ -44,7 +44,7 @@ int main(int argc, char* argv[]) {
 	char *stat = "stat";
 	char *supply = "supp";
 	char *whos = "whos";
-		
+	
 	char command[MAX_STRING_LENGTH];
 	char line[MAX_STRING_LENGTH];
 	char cardName[MAX_STRING_LENGTH];
@@ -69,7 +69,7 @@ int main(int argc, char* argv[]) {
 	struct gameState * game = &g;
 
 	memset(game,0,sizeof(struct gameState));
-		
+	
 	if(argc != 2){
 		printf("Usage: player [integer random number seed]\n");
 		return EXIT_SUCCESS;
@@ -107,7 +107,7 @@ int main(int argc, char* argv[]) {
 			for(playerNum = 0; playerNum < game->numPlayers; playerNum++){
 				if(players[playerNum] == WINNER) printf("Player %d\n", playerNum);
 			}
-		for(playerNum = 0; playerNum < game->numPlayers; playerNum++){
+			for(playerNum = 0; playerNum < game->numPlayers; playerNum++){
 				printHand(playerNum, game);
 				printPlayed(playerNum, game);
 				printDiscard(playerNum, game);
@@ -119,8 +119,8 @@ int main(int argc, char* argv[]) {
 		
 
 		if(isBot[currentPlayer] == TRUE) {
-				executeBotTurn(currentPlayer, &turnNum, game);
-				continue;
+			executeBotTurn(currentPlayer, &turnNum, game);
+			continue;
 		}
 		
 		printf("$ ");
@@ -162,7 +162,7 @@ int main(int argc, char* argv[]) {
 			for(playerNum = numHuman; playerNum < arg0; playerNum++) {
 				isBot[playerNum] = TRUE;
 			}			
-	//		selectKingdomCards(randomSeed, kCards);  //Comment this out to use the default card set defined in playDom.
+			//		selectKingdomCards(randomSeed, kCards);  //Comment this out to use the default card set defined in playDom.
 			outcome = initializeGame(arg0, kCards, randomSeed, game);
 			printf("\n");
 			if(outcome == SUCCESS){
@@ -210,8 +210,8 @@ int main(int argc, char* argv[]) {
 			int playerNum =	whoseTurn(game);
 			printf("Player %d's turn\n", playerNum);
 		} 
-    	}
+	}
 	
-    	return EXIT_SUCCESS;
+	return EXIT_SUCCESS;
 
 }
