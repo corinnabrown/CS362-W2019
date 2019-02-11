@@ -1204,7 +1204,6 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
 
 int discardCard(int handPos, int currentPlayer, struct gameState *state, int trashFlag)
 {
-	
 	//if card is not trashed, added to Played pile 
 	if (trashFlag < 1) {
 		//add card to played pile
@@ -1337,8 +1336,8 @@ int adventurerEffect(struct gameState *state, int handPos) {
 		drawCard(currentPlayer, state);
 		cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-1];//top card of hand is most recently drawn card.
 		if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold) {
-			//drawntreasure++;    //add this, bug
-			int k;   ///remove this, bug
+			drawntreasure++;    //add this, bug
+			//int k;   ///remove this, bug
 		}
 		else{
 			temphand[z]=cardDrawn;
@@ -1350,7 +1349,7 @@ int adventurerEffect(struct gameState *state, int handPos) {
 		state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1]; // discard all cards in play that have been drawn
 		z=z-1;
 	}
-	
+
 	//this was not included in the original code, should be added to fix bug
 	//put played card in played card pile
 	//discardCard(handPos, currentPlayer, state, 0);
