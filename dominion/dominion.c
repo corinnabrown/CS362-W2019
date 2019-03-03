@@ -1312,11 +1312,11 @@ int smithyEffect(struct gameState *state, int handPos) {
 	//Description: +3 Cards
 	int i;
 	int currentPlayer = whoseTurn(state);
-	
-	for (i = 1; i < 3; i++) {
+
+	for (i = 0; i < 3; i++) {
 		drawCard(currentPlayer, state);
 	}
-	
+
 	//discard card from hand
 	discardCard(handPos, currentPlayer, state, 0);
 	return 0;
@@ -1337,8 +1337,8 @@ int adventurerEffect(struct gameState *state, int handPos) {
 		drawCard(currentPlayer, state);
 		cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-1];//top card of hand is most recently drawn card.
 		if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold) {
-			//drawntreasure++;    //add this, bug
-			int k;   ///remove this, bug
+			drawntreasure++;    //add this, bug
+			//int k;   ///remove this, bug
 		}
 		else{
 			temphand[z]=cardDrawn;
