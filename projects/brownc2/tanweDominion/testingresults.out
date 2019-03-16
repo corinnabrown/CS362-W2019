@@ -1,0 +1,3183 @@
+
+unittestresults.out Assignment 5
+Corinna Brown
+CS 362 Winter 2019
+
+
+Results for Unit Test 1 - isUpdateCoins()
+TESTING updateCoins():
+Passed: All coppers test with p = 0, handCount = 0, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 0, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 0, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 0, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 0, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 0, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 0, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 0, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 0, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 0, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 0, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 0, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 0, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 0, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 0, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 0, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 0, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 0, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 0, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 0, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 0, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 0, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 0, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 0, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 0, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 0, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 0, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 0, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 0, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 0, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 0, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 0, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 0, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 0, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 0, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 0, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 0, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 0, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 0, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 0, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 0, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 0, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 0, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 0, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 1, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 1, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 1, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 1, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 1, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 1, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 1, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 1, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 1, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 1, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 1, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 1, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 1, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 1, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 1, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 1, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 1, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 1, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 1, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 1, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 1, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 1, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 1, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 1, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 1, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 1, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 1, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 1, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 1, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 1, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 1, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 1, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 1, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 1, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 1, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 1, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 1, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 1, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 1, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 1, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 1, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 1, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 1, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 1, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 2, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 2, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 2, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 2, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 2, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 2, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 2, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 2, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 2, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 2, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 2, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 2, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 2, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 2, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 2, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 2, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 2, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 2, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 2, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 2, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 2, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 2, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 2, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 2, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 2, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 2, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 2, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 2, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 2, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 2, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 2, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 2, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 2, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 2, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 2, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 2, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 2, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 2, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 2, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 2, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 2, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 2, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 2, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 2, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 3, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 3, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 3, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 3, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 3, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 3, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 3, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 3, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 3, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 3, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 3, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 3, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 3, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 3, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 3, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 3, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 3, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 3, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 3, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 3, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 3, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 3, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 3, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 3, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 3, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 3, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 3, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 3, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 3, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 3, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 3, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 3, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 3, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 3, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 3, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 3, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 3, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 3, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 3, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 3, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 3, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 3, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 3, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 3, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 4, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 4, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 4, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 4, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 4, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 4, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 4, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 4, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 4, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 4, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 4, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 4, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 4, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 4, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 4, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 4, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 4, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 4, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 4, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 4, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 4, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 4, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 4, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 4, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 4, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 4, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 4, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 4, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 4, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 4, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 4, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 4, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 4, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 4, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 4, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 4, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 4, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 4, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 4, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 4, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 4, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 4, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 4, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 4, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 5, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 5, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 5, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 5, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 5, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 5, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 5, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 5, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 5, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 5, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 5, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 5, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 5, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 5, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 5, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 5, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 5, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 5, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 5, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 5, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 5, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 5, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 5, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 5, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 5, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 5, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 5, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 5, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 5, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 5, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 5, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 5, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 5, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 5, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 5, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 5, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 5, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 5, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 5, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 5, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 0, handCount = 5, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 0, handCount = 5, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 0, handCount = 5, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 0, handCount = 5, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 0, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 0, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 0, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 0, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 0, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 0, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 0, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 0, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 0, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 0, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 0, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 0, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 0, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 0, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 0, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 0, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 0, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 0, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 0, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 0, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 0, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 0, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 0, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 0, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 0, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 0, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 0, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 0, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 0, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 0, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 0, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 0, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 0, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 0, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 0, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 0, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 0, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 0, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 0, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 0, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 0, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 0, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 0, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 0, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 1, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 1, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 1, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 1, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 1, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 1, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 1, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 1, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 1, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 1, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 1, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 1, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 1, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 1, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 1, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 1, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 1, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 1, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 1, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 1, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 1, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 1, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 1, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 1, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 1, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 1, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 1, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 1, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 1, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 1, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 1, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 1, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 1, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 1, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 1, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 1, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 1, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 1, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 1, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 1, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 1, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 1, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 1, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 1, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 2, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 2, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 2, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 2, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 2, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 2, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 2, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 2, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 2, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 2, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 2, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 2, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 2, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 2, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 2, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 2, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 2, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 2, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 2, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 2, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 2, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 2, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 2, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 2, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 2, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 2, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 2, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 2, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 2, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 2, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 2, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 2, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 2, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 2, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 2, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 2, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 2, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 2, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 2, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 2, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 2, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 2, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 2, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 2, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 3, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 3, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 3, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 3, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 3, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 3, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 3, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 3, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 3, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 3, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 3, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 3, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 3, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 3, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 3, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 3, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 3, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 3, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 3, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 3, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 3, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 3, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 3, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 3, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 3, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 3, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 3, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 3, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 3, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 3, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 3, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 3, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 3, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 3, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 3, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 3, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 3, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 3, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 3, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 3, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 3, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 3, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 3, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 3, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 4, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 4, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 4, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 4, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 4, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 4, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 4, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 4, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 4, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 4, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 4, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 4, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 4, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 4, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 4, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 4, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 4, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 4, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 4, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 4, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 4, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 4, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 4, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 4, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 4, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 4, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 4, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 4, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 4, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 4, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 4, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 4, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 4, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 4, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 4, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 4, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 4, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 4, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 4, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 4, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 4, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 4, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 4, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 4, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 5, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 5, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 5, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 5, and bonus = 0, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 5, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 5, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 5, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 5, and bonus = 1, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 5, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 5, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 5, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 5, and bonus = 2, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 5, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 5, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 5, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 5, and bonus = 3, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 5, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 5, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 5, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 5, and bonus = 4, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 5, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 5, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 5, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 5, and bonus = 5, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 5, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 5, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 5, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 5, and bonus = 6, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 5, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 5, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 5, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 5, and bonus = 7, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 5, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 5, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 5, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 5, and bonus = 8, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 5, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 5, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 5, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 5, and bonus = 9, coins as expected
+Passed: assertSameState Test
+Passed: All coppers test with p = 1, handCount = 5, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All silvers test with p = 1, handCount = 5, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: All golds test with p = 1, handCount = 5, and bonus = 10, coins as expected
+Passed: assertSameState Test
+Passed: Mixed coppers test with p = 1, handCount = 5, and bonus = 10, coins as expected
+Passed: assertSameState Test
+All tests passed unittest1!
+
+Results for Unit Test 2 - isGameOver()
+TESTING isGameOver():
+Testing province pile empty
+Passed: Game is over when province pile empty
+Passed: assertSameState Test
+Testing 3 supply piles empty
+Passed: Game is over when 3 supply piles empty
+Passed: assertSameState Test
+Testing 4 supply piles empty
+Passed: Game is over when 4 supply piles empty
+Passed: assertSameState Test
+Testing 2 supply piles empty
+Passed: Game is not over when 2 supply piles empty
+Passed: assertSameState Test
+Testing 0 supply piles empty
+Passed: Game is not over when 0 supply piles empty
+Passed: assertSameState Test
+All tests passed unittest2!
+
+Results for Unit Test 3 - fullDeckCount()
+TESTING fullDeckCount():
+Passed: Counts 7 copper in starting deck
+Passed: Counts 3 estates in starting deck
+Passed: Counts 0 smithys in starting deck
+Testing add silver to hand
+Passed: silver in in full deck when added to hand
+Passed: assertSameState Test
+Testing add silver to discard
+Passed: silver in full deck when added to discard
+Passed: assertSameState Test
+Testing add silver to deck
+Passed: silver in full deck when added to deck
+Passed: assertSameState Test
+Testing add duchy to hand
+Passed: duchy in in full deck when added to hand
+Passed: assertSameState Test
+Testing add duchy to discard
+Passed: duchy in full deck when added to discard
+Passed: assertSameState Test
+Testing add duchy to deck
+Passed: duchy in full deck when added to deck
+Passed: assertSameState Test
+Testing add curse to hand
+Passed: curse in in full deck when added to hand
+Passed: assertSameState Test
+Testing add curse to discard
+Passed: curse in full deck when added to discard
+Passed: assertSameState Test
+Testing add curse to deck
+Passed: curse in full deck when added to deck
+Passed: assertSameState Test
+Testing add smithy to hand
+Passed: smithy in in full deck when added to hand
+Passed: assertSameState Test
+Testing add smithy to discard
+Passed: smithy in full deck when added to discard
+Passed: assertSameState Test
+Testing add smithy to deck
+Passed: smithy in full deck when added to deck
+Passed: assertSameState Test
+All tests passed unittest3!
+
+Results for Card Test 1 - Smithy
+TESTING smithy:
+Passed: handCount went up by 2
+Passed: deckCount went down by 3
+Passed: assertSameState Test
+All tests passed cardtest1!
+
+Results for Card Test 2 - Adventurer
+TESTING adventurer:
+Passed: handCount went up by 2
+Passed: card 1 was a treasure card
+Passed: card 2 was a treasure card
+Passed: assertSameState Test
+All tests passed cardtest2!
+
+Results for Card Test 3 - Cutpurse
+TESTING cutpurse:
+Passed: coins went up by 2
+Passed: handCount went down by 1 only
+Failed: cards in opponents hand didn't go down by 1
+G.handCount = 0, expected -1
+Failed: discarded card was not copper
+Discarded card = 387389207, expected 1
+Passed: coins went up by 2
+Failed: cards in hand didn't remain the same
+G.handCount = 5, expected 6
+Passed: assertSameState Test
+3 tests failed cardtest3...
+
+Results for Card Test 4 - Village
+TESTING village:
+Passed: hand count stayed the same
+Passed: deck count went down by 1
+Passed: number of actions went up by 2
+Passed: assertSameState Test
+All tests passed cardtest4!
+
+Random Card Test 1
+Random Testing Smithy
+Passed: handCount didn't go up by 2, but it was due to empty deck/discard
+
+All tests passed randomtestcard1!
+
+
+Random Card Test 2
+Random Testing Cutpurse
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 7, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 3, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 14, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 5, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 15, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 19, expected 1
+Failed: discarded card was not copper
+Discarded card = 25, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 13, expected 1
+Failed: discarded card was not copper
+Discarded card = 2, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 10, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 21, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 24, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 17, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 18, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 23, expected 1
+Failed: discarded card was not copper
+Discarded card = 12, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 20, expected 1
+Failed: discarded card was not copper
+Discarded card = 8, expected 1
+Failed: discarded card was not copper
+Discarded card = 9, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 11, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 0, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+Failed: discarded card was not copper
+Discarded card = 16, expected 1
+Failed: discarded card was not copper
+Discarded card = 22, expected 1
+Failed: discarded card was not copper
+Discarded card = 1, expected 1
+Failed: discarded card was not copper
+Discarded card = 6, expected 1
+
+911 tests failed randomtestcard2...
+
+
+Random Card Test Adventurer
+
+Random Testing Adventurer
+
+Failed: net hand gain was not 2 and there are still treasure cards in deck and/or discard
+G->handCount[p] = 305, origG.handCount[p] = 323, expected G->handCount[p] = 325
+Treasure cards in deck and discard = 0
+
+Failed: net hand gain was not 2 and there are still treasure cards in deck and/or discard
+G->handCount[p] = 218, origG.handCount[p] = 226, expected G->handCount[p] = 228
+Treasure cards in deck and discard = 0
+
+Failed: net hand gain was not 2 and there are still treasure cards in deck and/or discard
+G->handCount[p] = 374, origG.handCount[p] = 393, expected G->handCount[p] = 395
+Treasure cards in deck and discard = 0
+
+3 tests out of failed randomtestadventurer...
+
+
+Coverage Results
+Function 'updateCoins'
+Lines executed:100.00% of 11
+Branches executed:100.00% of 8
+Taken at least once:100.00% of 8
+No calls
+
+Function 'gainCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 1
+
+Function 'discardCard'
+Lines executed:92.31% of 13
+Branches executed:100.00% of 6
+Taken at least once:66.67% of 6
+No calls
+
+Function 'cardEffect'
+Lines executed:12.43% of 169
+Branches executed:22.30% of 139
+Taken at least once:9.35% of 139
+Calls executed:14.04% of 57
+
+Function 'tributeCard'
+Lines executed:0.00% of 39
+Branches executed:0.00% of 32
+Taken at least once:0.00% of 32
+Calls executed:0.00% of 4
+
+Function 'sea_hagCard'
+Lines executed:0.00% of 9
+Branches executed:0.00% of 4
+Taken at least once:0.00% of 4
+Calls executed:0.00% of 1
+
+Function 'feastCard'
+Lines executed:0.00% of 19
+Branches executed:0.00% of 10
+Taken at least once:0.00% of 10
+Calls executed:0.00% of 6
+
+Function 'smithyCard'
+Lines executed:100.00% of 7
+Branches executed:100.00% of 2
+Taken at least once:100.00% of 2
+Calls executed:100.00% of 3
+
+Function 'adventurerCard'
+Lines executed:100.00% of 18
+Branches executed:100.00% of 12
+Taken at least once:100.00% of 12
+Calls executed:100.00% of 3
+
+Function 'getCost'
+Lines executed:0.00% of 30
+Branches executed:0.00% of 28
+Taken at least once:0.00% of 28
+No calls
+
+Function 'drawCard'
+Lines executed:100.00% of 22
+Branches executed:100.00% of 6
+Taken at least once:100.00% of 6
+Calls executed:100.00% of 1
+
+Function 'getWinners'
+Lines executed:0.00% of 24
+Branches executed:0.00% of 22
+Taken at least once:0.00% of 22
+Calls executed:0.00% of 2
+
+Function 'scoreFor'
+Lines executed:0.00% of 24
+Branches executed:0.00% of 42
+Taken at least once:0.00% of 42
+Calls executed:0.00% of 3
+
+Function 'isGameOver'
+Lines executed:100.00% of 10
+Branches executed:100.00% of 8
+Taken at least once:100.00% of 8
+No calls
+
+Function 'endTurn'
+Lines executed:0.00% of 20
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 3
+
+Function 'whoseTurn'
+Lines executed:100.00% of 2
+No branches
+No calls
+
+Function 'fullDeckCount'
+Lines executed:100.00% of 9
+Branches executed:100.00% of 12
+Taken at least once:91.67% of 12
+No calls
+
+Function 'supplyCount'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'handCard'
+Lines executed:0.00% of 3
+No branches
+Calls executed:0.00% of 1
+
+Function 'numHandCards'
+Lines executed:0.00% of 2
+No branches
+Calls executed:0.00% of 1
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 4
+
+Function 'playCard'
+Lines executed:0.00% of 14
+Branches executed:0.00% of 10
+Taken at least once:0.00% of 10
+Calls executed:0.00% of 3
+
+Function 'shuffle'
+Lines executed:100.00% of 16
+Branches executed:100.00% of 8
+Taken at least once:100.00% of 8
+Calls executed:100.00% of 2
+
+Function 'initializeGame'
+Lines executed:83.87% of 62
+Branches executed:95.65% of 46
+Taken at least once:80.43% of 46
+Calls executed:100.00% of 5
+
+Function 'kingdomCards'
+Lines executed:0.00% of 13
+No branches
+No calls
+
+Function 'newGame'
+Lines executed:0.00% of 3
+No branches
+No calls
+
+Function 'compare'
+Lines executed:100.00% of 6
+Branches executed:100.00% of 4
+Taken at least once:100.00% of 4
+No calls
+
+File 'dominion.c'
+Lines executed:32.46% of 573
+Branches executed:33.81% of 417
+Taken at least once:27.10% of 417
+Calls executed:22.00% of 100
+Creating 'dominion.c.gcov'
+
